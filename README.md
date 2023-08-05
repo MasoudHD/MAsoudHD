@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="#" onclick='window.open("https://www.linkedin.com/in/heidarimasoud");return false;'></a>
+  <a href="https://www.linkedin.com/in/heidarimasoud" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/@MasoudTech" target="_blank" rel="noopener noreferrer">
